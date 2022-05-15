@@ -1,4 +1,5 @@
-hardhack.jar er et program der skriver alle 10k kombinationer fra mest populære til mindst populære den åbner også et vindue så man kan lukke programmet igen. det tager ca 100 sekunder for programmet og køre færdigt.
+hardhack.jar er et program der skriver alle 10k kombinationer fra mest populære til mindst populære.
+Den åbner også et vindue så man kan lukke programmet igen. det tager ca 100 sekunder for programmet og køre færdigt.
 
 den rå kode er givet i: HardHack.java
 
