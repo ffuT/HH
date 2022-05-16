@@ -11,3 +11,11 @@ result.txt er de forskellige tal i rigtig rækkefølge
 1111
 0000
 1212 osv.
+
+
+
+man kan skifte koden så den kun skal parseint en gang :P
+ int temp = Integer.parseInt(i);
+  if(temp==0){r.keyPress(KeyEvent.VK_0); };
+  if(temp==1){r.keyPress(KeyEvent.VK_1); };
+  osv.                  
